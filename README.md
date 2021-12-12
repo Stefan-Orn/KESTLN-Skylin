@@ -2,7 +2,7 @@
 
 ## 1.
 Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is
-![alt text]()
+![alt text](IP addr.png)
 
 ## 2.
 configure the server1 with static IP Address, from the IP Address block 192.168.100.0/24.
