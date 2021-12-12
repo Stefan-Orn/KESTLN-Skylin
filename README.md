@@ -2,19 +2,22 @@
 
 ## 1.
 Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is
-![alt text](KESTLN-Skylin/IP addr.png)
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/hostname%20og%20domain.png)
 
 ## 2.
 configure the server1 with static IP Address, from the IP Address block 192.168.100.0/24.
 The server must be configured with the 10th usable IP Address.
 
-![alt text]()
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/IP%20addr.png)
 
 ## 3.
-![alt text]()
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/DHCP%20setup.png)
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/DHCP%20eht38.png)
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/DHCP%20prove%20a%20client.png)
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/DHCP%20alltaf%20sama%20sagan.png)
 
 ## 4.
-![alt text]()
+
 
 ## 5.
 ```shell
@@ -49,13 +52,18 @@ done<"$filen"
 ![alt text]()
 
 ## 10.
-![alt text]()
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/postbox%20midgame.png)
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/postfix%20lategame.png)
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/postfix%20test.png)
 
 ## 11.
-![alt text]()
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/prentara%20commands.png)
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/Prentarara.png)
 
 ## 12.
-![alt text]()
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/RSAkey%20byrjun.png)
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/SSH%20fyrir%20client.png)
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/Bruh%20SSH.png)
 
 ## 13.
 ![alt text]()
