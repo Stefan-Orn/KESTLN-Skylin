@@ -40,10 +40,24 @@ done<"$filen"
 ```
 
 ## 6.
-![alt text]()
+![alt text](https://github.com/Stefan-Orn/KESTLN-Skylin/blob/main/Screenshot%202021-12-11%20151121.png)
 
 ## 7.
 ![alt text]()
+```shell
+#!/bin/bash
+DATE=$(date +%d-%m-%Y)
+BACKUP=”/root/backup”
+
+# Backupa home directory #
+tar -zcvpf $BACKUP/backupscript-$DATE.tar.gz /home
+
+#Eyðir fílum
+find $BACKUP/* -mtime +10 -exec rm {} \;
+```
+crontab -e
+Scrollar niður í filinu
+0 0 * * * /bin/backupscript.sh
 
 ## 8.
 ![alt text]()
